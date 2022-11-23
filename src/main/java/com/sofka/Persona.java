@@ -38,8 +38,8 @@ public class Persona {
         return ID;
     }
 
-    public void setID(String ID) {
-        this.ID = ID;
+    public void setID(String id) {
+        ID = id;
     }
 
     public String getCorreo_Electronico() {
